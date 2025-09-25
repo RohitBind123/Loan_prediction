@@ -78,7 +78,7 @@ The model considers various factors for loan prediction:
 
 ```
 Loan_prediction/
-├── Copy of Project 6. Loan Status Prediction (1).ipynb  # Main analysis notebook
+├── loan_status_prediction.ipynb  # Main analysis notebook
 └── README.md                                           # Project documentation
 ```
 
